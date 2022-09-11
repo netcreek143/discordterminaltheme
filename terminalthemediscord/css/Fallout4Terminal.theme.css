@@ -1,0 +1,21 @@
+/**
+ * @name Fallout 4 Terminal
+ * @source https://github.com/CommandCrafterHD/Fallout4TerminalTheme
+ * @website https://commandcrafterhd.github.io/Fallout4TerminalTheme=
+*/
+
+@import url('https://commandcrafterhd.github.io/Fallout4TerminalTheme/css/main.css');
+/* ^ THIS IS THE MAIN IMPORT. DO NOT TOUCH THIS OR THE THEME WILL BREAK. ^ */
+
+/* @import url('https://commandcrafterhd.github.io/Fallout4TerminalTheme/css/disableCRT.css'); */
+/* ^ UNCOMMENT THIS IMPORT IF YOU WANT TO REMOVE THE CRT EFFECT ^ */
+
+/* TO CUSTOMIZE THE THEME, UNCOMMENT THE LINES BELOW AND REPLACE THE VARIABLES */
+
+
+:root {
+  --background: #000700 !important;
+  --text-color: #4AEF98 !important;
+  --highlight: var(--text-color) !important;
+}
+
